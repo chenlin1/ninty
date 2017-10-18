@@ -1,0 +1,17 @@
+@charser "utf-8";
+*{ margin:0; padding:0;}
+a{ text-decoration: none}
+.list_box{ height:auto;width:550px; margin:0 auto; border:1px #cacaca solid; overflow:hidden;}
+.list_top{ height:40px;}
+.list_top a{ height:16px; width:16px; display:block;  float:right; margin:5px;}
+.btn_list_off{background:#fff url(../images/list.png) no-repeat -38px 0px;}
+.btn_car_on{background:#fff url(../images/list.png) no-repeat -21px -34px;}
+.btn_list_on{background:#fff url(../images/list.png) no-repeat -21px 0px;}
+.btn_car_off{background:#fff url(../images/list.png) no-repeat -38px -32px;}
+
+
+.list_box ul li{ height:auto; width:164px; border:1px #ccc solid; list-style:none; float:left; margin:8px; }
+.list_big{ width:164px; height:164px; display:block; overflow:hidden;}
+.list_con p a,.list_con p span{ display:block; line-height:23px; padding-left:10px;}
+.list_bottom{ height:40px; line-height:40px; text-align:center; background:#ccc;}
+.list_small{ height:50px width:50px; display:block; float:left; margin:5px;}
